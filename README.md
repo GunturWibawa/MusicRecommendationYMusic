@@ -7,7 +7,7 @@ In this development phase, I delved into the critical principles and elementary 
 
 # **Project Insight**
 
-Assuming the role of an Analyst within the framework of Y.Music Company for this project, the principal aim is to scrutinize various hypotheses and juxtapose users’ preferences. Presented below are the conclusions drawn upon project culmination.
+As an Analyst in the Y.Music Company, the principal aim for this project is to scrutinize various hypotheses and match user preferences. Presented below are the conclusions drawn upon project goals.
 
 Post rigorous data analysis, we can deduce:
 
