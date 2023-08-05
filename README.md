@@ -13,7 +13,7 @@ Post rigorous data analysis, we can deduce:
 
 1. The level of user engagement in Springfield and Shelbyville is contingent upon the day, despite the cities' individual characteristics. This validates the first hypothesis in its entirety.
 
-2. There is no significant deviation in music preferences throughout the week between Springfield and Shelbyville. A negligible difference emerges in the ranking on Mondays, however, in both Springfield and Shelbyville, pop music garners the highest listenership. Consequently, this hypothesis does not stand validated. It is worth noting that the outcome could deviate if unconsidered values were included.
+2. There is no significant deviation in music preferences throughout the week between Springfield and Shelbyville. A negligible difference emerges in the ranking on Mondays, however, in both Springfield and Shelbyville, pop music garners the highest listenership. Consequently, this hypothesis does not stand validated. It is worth nothing that the outcome could deviate if unconsidered values were included.
 
 3. Surprisingly, the music predilections of users from Springfield and Shelbyville present a striking similarity. This leads to the rejection of the third hypothesis. If any differences in tastes existed, they remain elusive within the given data set.
 
